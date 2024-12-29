@@ -14,3 +14,5 @@ The game is made up of 760 lines and using the colorama, time, and pprint librar
 ![img-description](media\escapeRoomPost\gameScreenshot.jpg)
 _Game's code preview_
 
+![Desktop View](media\escapeRoomPost\gameScreenshot.jpg){: width="898" height="453" }
+
