@@ -11,8 +11,9 @@ One of the most interesting assignments that I've worked on during my first seme
 
 The game is made up of 760 lines and using the colorama, time, and pprint libraries to enhance the game's presentation and interactivity for the player. Technically, the game's code is far from perfect and there is a lot of room for improvement, but it is still an impressive work. [Click here to see the game's code](https://github.com/kmuzaki/escapeRoomGame/blob/main/escapeRoom.py)
 
-![img-description](.media/escapeRoomPost/gameScreenshot.jpg)
+![img-description](/media/escapeRoomPost/gameScreenshot.jpg){: w="898" h="453" }
 _Game's code preview_
 
-<!-- ![Desktop View](media\escapeRoomPost\gameScreenshot.jpg){: width="898" height="453" } -->
+![Code Screenshot](/assets/img/personal/tremo-mountain.jpg){: w="700" h="400" }
+_Me at the top of [Mount Moses](https://en.wikipedia.org/wiki/Mount_Sinai), Sinai, Egypt_
 
