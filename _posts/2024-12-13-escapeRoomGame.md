@@ -14,6 +14,3 @@ The game is made up of 760 lines and using the colorama, time, and pprint librar
 ![img-description](/media/escapeRoomPost/gameScreenshot.jpg){: w="898" h="453" }
 _Game's code preview_
 
-<!-- ![Code Screenshot](/assets/img/personal/tremo-mountain.jpg){: w="700" h="400" }
-_Me at the top of [Mount Moses](https://en.wikipedia.org/wiki/Mount_Sinai), Sinai, Egypt_ -->
-
