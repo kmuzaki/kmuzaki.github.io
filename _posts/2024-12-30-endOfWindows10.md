@@ -22,7 +22,7 @@ It is true that I will inevitably say goodbye to Win10 and say hello to Win11. I
 
 So why then? Well there are a couple reasons, but most prominently is that why do I need to rush? Why do I REALLY need to upgrade to Windows 11 when Microsoft still support Windows 10? Sure they'll stop supporting it, but I could still download updates and patches to improve security and features. In fact, it is said that Microsoft realise that Windows 10 still popular amongst PC users so they decided to improve user experience for Windows 10
 
-Plus the fact that Windows 11 consumes more RAM to work with, so definitely a point for me to save some resources to run my applications. Also Windows 10 are still accessible to pretty much everyone across the board.
+Plus the fact that Windows 11 consumes more RAM to work with, so definitely a point for me to save some resources to run my applications. Also Windows 10 are still accessible to pretty much everyone across the board. So with that said, to those who are still sticking around, let's enjoy these last few months before we finally move on to Windows 11...
 
 ## References
 
