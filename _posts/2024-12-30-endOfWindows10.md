@@ -1,7 +1,7 @@
 ---
 title: "One Last Year of Windows 10"
 date: 2024-12-30
-categories: [Posts, casual]
+categories: [posts, tech_news]
 tags: [Windows 10, Windows 11, AI]
 ---
 

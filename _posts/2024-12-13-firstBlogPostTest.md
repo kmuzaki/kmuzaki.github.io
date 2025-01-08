@@ -1,7 +1,7 @@
 ---
 title: "First Blog Post Test"
 date: 2024-12-13 15
-categories: [Posts, casual]
+categories: [posts, casual]
 tags: [first]
 ---
 

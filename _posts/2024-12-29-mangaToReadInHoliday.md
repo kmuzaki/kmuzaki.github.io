@@ -1,7 +1,7 @@
 ---
 title: "Holiday so far..."
 date: 2024-12-29
-categories: [Posts, casual]
+categories: [posts, casual]
 tags: [architecture computer, holiday, manga]
 ---
 
