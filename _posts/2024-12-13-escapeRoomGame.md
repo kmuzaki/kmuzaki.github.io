@@ -11,6 +11,21 @@ One of the most interesting assignments that I've worked on during my first seme
 
 The game is made up of 760 lines and using the colorama, time, and pprint libraries to enhance the game's presentation and interactivity for the player. Technically, the game's code is far from perfect and there is a lot of room for improvement, but it is still an impressive work. [Click here to see the game's code](https://github.com/kmuzaki/escapeRoomGame/blob/main/escapeRoom.py)
 
-![img-description](/media/escapeRoomPost/gameScreenshot.jpg){: w="898" h="453" }
-_Game's code preview_
+![img-description](/media/escapeRoomPost/pt1.gif){: w="600" h="338" }
+_Gameplay part 1_
+
+![img-description](/media/escapeRoomPost/pt2.gif){: w="600" h="338" }
+_Gameplay part 2_
+
+![img-description](/media/escapeRoomPost/pt3.gif){: w="600" h="338" }
+_Gameplay part 3_
+
+![img-description](/media/escapeRoomPost/pt4.gif){: w="600" h="338" }
+_Gameplay part 4_
+
+![img-description](/media/escapeRoomPost/pt5.gif){: w="600" h="338" }
+_Gameplay part 5_
+
+![img-description](/media/escapeRoomPost/pt6End.gif){: w="600" h="338" }
+_Gameplay part 6 (Ending)_
 
