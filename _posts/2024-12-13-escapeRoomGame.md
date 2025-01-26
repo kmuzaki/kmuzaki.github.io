@@ -3,6 +3,7 @@ title: "Text-based escape room game"
 date: 2024-12-13
 categories: [projects]
 tags: [python, game]
+image: media/escapeRoomPost/thumbnail.jpg
 ---
 
 # Text-based escape room

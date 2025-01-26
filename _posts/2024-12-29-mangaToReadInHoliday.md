@@ -3,6 +3,8 @@ title: "Holiday so far..."
 date: 2024-12-29
 categories: [posts, casual]
 tags: [architecture computer, holiday, manga]
+image:
+    path: /media/architectureComputer/IMG20241228180129.jpg
 ---
 
 # Manga to read??

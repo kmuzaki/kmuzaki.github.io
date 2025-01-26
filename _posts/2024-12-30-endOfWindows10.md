@@ -3,6 +3,7 @@ title: "One Last Year of Windows 10"
 date: 2024-12-30
 categories: [posts, tech_news]
 tags: [Windows 10, Windows 11, AI]
+image: media/endOfWin10/win11Desktop.webp
 ---
 
 ## End of Support for Windows 10

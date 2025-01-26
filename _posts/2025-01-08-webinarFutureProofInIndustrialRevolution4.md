@@ -3,6 +3,7 @@ title: "Future Proof Yourself in The Fourth Industrial Revolution Webinar"
 date: 2025-01-08
 categories: [posts, webinar]
 tags: [Fourth Industrial Revolution, webinars, seminars, business, AI]
+image: media/futureProofinIndustrialEra4Webinar/poster.png
 ---
 
 ## Rapid Technological Advances
