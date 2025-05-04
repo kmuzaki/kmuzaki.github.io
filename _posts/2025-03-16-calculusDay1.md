@@ -1,6 +1,6 @@
 ---
 title: "Calculus class reflection day 1"
-date: 2025-01-08
+date: 2025-03-16
 categories: [posts, classJournaling, calculus]
 tags: [calculus, maths]
 image: media/calculusDay1/definition-derivative-formulas.jpg
