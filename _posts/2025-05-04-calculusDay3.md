@@ -1,5 +1,5 @@
 ---
-title: "Calculus class reflection day 2"
+title: "Calculus class reflection day 3"
 date: 2025-05-04
 categories: [posts, classJournaling, calculus]
 tags: [calculus, maths]
