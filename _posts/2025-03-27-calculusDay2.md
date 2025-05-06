@@ -1,7 +1,7 @@
 ---
 title: "Calculus class reflection day 2"
 date: 2025-03-27
-categories: [posts, classJournaling, calculus]
+categories: [classJournaling, calculus]
 tags: [calculus, maths]
 image: media/calculusDay1/definition-derivative-formulas.jpg
 ---

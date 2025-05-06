@@ -1,7 +1,7 @@
 ---
 title: "Calculus class reflection day 5"
 date: 2025-05-06
-categories: [posts, classJournaling, calculus]
+categories: [classJournaling, calculus]
 tags: [calculus, maths]
 image: media/calculusDay5/minimumValue.jpg
 ---

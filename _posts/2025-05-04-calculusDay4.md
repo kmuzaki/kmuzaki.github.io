@@ -1,7 +1,7 @@
 ---
 title: "Calculus class reflection day 4"
 date: 2025-05-04
-categories: [posts, classJournaling, calculus]
+categories: [classJournaling, calculus]
 tags: [calculus, maths]
 image: media/calculusDay4/chainRule.png
 ---
