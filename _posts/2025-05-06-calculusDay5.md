@@ -3,7 +3,7 @@ title: "Calculus class reflection day 5"
 date: 2025-05-06
 categories: [posts, classJournaling, calculus]
 tags: [calculus, maths]
-image: media/calculusDay4/chainRule.png
+image: media/calculusDay5/minimumValue.jpg
 ---
 
 ## Finishing some remaining assignments
@@ -12,4 +12,6 @@ The last day before the first exam was, as the header says, just finishing up as
 * Determining if a function's input is the minimum or maximum type
 * Finding the extreme point of a function
 * How input can affect the function's shape when we put it in [Geogebra](https://www.geogebra.org/calculator), or just the actual function itself
+
+All of which are rather complex at first glance, but I was able to quickly recall all of it after I, once again, skimmed through my math notebooks from High School.
 
