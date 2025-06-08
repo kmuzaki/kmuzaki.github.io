@@ -16,6 +16,7 @@ Integral is basically an anti derivative. As in, we "raise" this function. The f
  Following the formula will give this:
 >_f(x) = (x^2) + 1x + C
 
+That's pretty much it for the class. There were other things mentioned like what's it being used for in practice, some practice questions he left for us to answer, but other than that, it was just that basic formula of Integral being the main talking point in the class.
 
 
 
