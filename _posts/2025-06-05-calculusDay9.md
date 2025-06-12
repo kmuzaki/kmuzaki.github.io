@@ -3,7 +3,7 @@ title: "Calculus class reflection day 9"
 date: 2025-06-05
 categories: [classJournaling, calculus]
 tags: [calculus, maths]
-image: media/calculusDay8/integral.webp
+image: media/calculusDay9/Formula-for-Integration-by-substitution.webp
 ---
 
 ## Integral with Substitution
@@ -17,3 +17,15 @@ I'll try my best to explain it by words. Based on the image above, we were given
 
 From there, we take the "inner" part of the function, which is _(x^3)+2_ and find its derivative first. After that we turn that into fraction to adapt with the symbols of "dx" and "du" (correct me if I'm wrong.) Then, we substitute that into the main function, and from there we integrate it as normal. Full details can be seen in the image above.
 
+## Definite Integral
+Definite Integral is an integral that has a start and end values, or interval. Which means there is an interval in the area of the function's graph. These start and end values are put on the bottom and the top of the Integral symbol "S".
+
+![defIntegral](media/calculusDay9/Screenshot 2025-06-12 083317.jpg){: w="504" h="308" }
+_Difference between definite and indefinite Integral_
+
+The way we solve is just like how solve an indefinite integral as normal. But after we got its integrated function, we then substitute it with the top values and the bottom values, calculate it, and then subtract the value of the integrated function substituted with the top value, with that same integrated function's value but substituted with the bottom value and we finally get the end result.
+
+![defIntegral](media/calculusDay9/definiteIntegralExp.jpg){: w="515" h="519" }
+_Example of Definite Integral_
+
+<!-- ## Multiple Integral -->
