@@ -28,4 +28,8 @@ The way we solve is just like how solve an indefinite integral as normal. But af
 ![defIntegral](media/calculusDay9/definiteIntegralExp.jpg){: w="515" h="519" }
 _Example of Definite Integral_
 
-<!-- ## Multiple Integral -->
+## Multiple Integral
+Another thing we have learned during this day is multiple Integral. It's where we try to find the total value of an area that is being marked. Especially when the limit go from negative to positive 
+
+![multiIntegral](media/calculusDay9/IMG20250508092224.jpg){: w="1280" h="720" }
+_Multiple Integral (Integral lipat)_
