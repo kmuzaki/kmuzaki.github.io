@@ -29,7 +29,8 @@ The way we solve is just like how solve an indefinite integral as normal. But af
 _Example of Definite Integral_
 
 ## Multiple Integral
-Another thing we have learned during this day is multiple Integral. It's where we try to find the total value of an area that is being marked. Especially when the limit go from negative to positive 
-
-![multiIntegral](media/calculusDay9/IMG20250508092224.jpg){: w="1280" h="720" }
-_Multiple Integral (Integral lipat)_
+Another thing we have learned during this day is multiple Integral. It's where we try to find the total value of an area that is being marked. Especially when the limit go from negative to positive. The steps were:
+1. Understand the region first
+2. Split the limit into two parts (For example if the limit is -1 and 4, then we need to do the integral twice. With limit -1 to 0 first, then 0 to 4.)
+3. Do both integral as usual. With the integral that have negative limit value, make the result absolute.
+4. Sum up both integral results and done!
